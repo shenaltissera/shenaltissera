@@ -1,23 +1,23 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm SHENAL TISSERA</h1>
-<h3 align="center">A Information Technology Undergraduate from Sri Lanka</h3>
+<h3 align="center">A Information Technology Undergraduate @SLIIT from 🇱🇰</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/rishenlithan" target="blank"><img src="https://img.shields.io/twitter/follow/rishenlithan?logo=twitter&style=for-the-badge" alt="rishenlithan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shenaltissera27" target="blank"><img src="https://img.shields.io/twitter/follow/shenaltissera27n?logo=twitter&style=for-the-badge" alt="shenaltissera" /></a> </p>
 
 - 💬 Ask me about **MERN, HTML, CSS, Java**
 
 - 📫 How to reach me **judeshenal.st@gmail.com**
 
-- ⚡ Fun fact **I do dumb things when no one else is watching!**
+- ⚡ Fun fact **I do dumb stuff when no one else is watching!**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shenaltissera27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishenlithan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shenal-tissera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishen lithan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shenal.tissera.98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishen lithan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shenaltissera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___litha_n___" height="30" width="40" /></a>
+<a href="https://twitter.com/shenaltissera27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shenaltissera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shenal-tissera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenal tissera" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shenal.tissera.98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shenal tissera" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shenaltissera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shenaltissera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
