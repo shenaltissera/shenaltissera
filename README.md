@@ -3,7 +3,7 @@
 <h3 align="center">A Information Technology Undergraduate @SLIIT from 🇱🇰</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/shenaltissera27" target="blank"><img src="https://img.shields.io/twitter/follow/shenaltissera27n?logo=twitter&style=for-the-badge" alt="shenaltissera" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shenaltissera27" target="blank"><img src="https://img.shields.io/twitter/follow/shenaltissera27?logo=twitter&style=for-the-badge" alt="shenaltissera" /></a> </p>
 
 - 💬 Ask me about **MERN, HTML, CSS, Java**
 
