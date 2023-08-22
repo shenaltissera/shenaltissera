@@ -1,4 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm SHENAL TISSERA</h1>
 <h3 align="center">A Information Technology Undergraduate @SLIIT from 🇱🇰</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
