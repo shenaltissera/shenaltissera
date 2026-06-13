@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shenal Tissera 👋</h1>
 
 <p align="center">
-  <strong>Machine Learning Engineer & Data Scientist • IT Undergraduate @SLIIT • Sri Lanka 🇱🇰</strong>
+  <strong>Machine Learning Engineer & Data Scientist • IT Undergraduate @DeakinUniversity • Austraila🇦🇺</strong>
 </p>
 
 <p align="center">
