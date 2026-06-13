@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shenal Tissera 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • IT Undergraduate @SLIIT • Sri Lanka 🇱🇰</strong>
+  <strong>Aspiring Data Scientist | AI • Machine Learning • NLP | Building Real-World Intelligent Systems</strong>
 </p>
 
 <p align="center">
@@ -18,8 +18,6 @@
 ---
 
 ### 👨‍💻 About Me
-
-I'm an **Information Technology undergraduate at SLIIT** and a full-stack developer who enjoys turning ideas into clean, working products. I work primarily across the **MERN stack** and am actively seeking **internship and entry-level software engineering opportunities** where I can contribute, learn, and grow.
 
 - 🔭 Building full-stack web apps with **React, Node.js, Express, and MongoDB**
 - 🎯 **Seeking** internship / junior developer roles in software engineering
