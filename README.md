@@ -97,14 +97,6 @@ End-to-end financial prediction app with a data pipeline, ML predictive modeling
 
 ---
 
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shenaltissera/shenaltissera/output/snake.svg" alt="Contribution snake animation"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shenaltissera&style=flat-square&color=blue" alt="Profile views"/>
 </p>
