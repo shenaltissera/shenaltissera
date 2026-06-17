@@ -19,7 +19,7 @@
 
 ### 🤖 About Me
 
-I'm an **Information Technology undergraduate at SLIIT** building **machine learning systems that ship** — from probabilistic demand forecasting to real-time risk prediction served on serverless infrastructure. I'm actively seeking **AI/ML engineering and data science roles (internship or entry-level)** where I can build models end-to-end: data pipeline → training → evaluation → deployment.
+I'm an **Data Science undergraduate at Deakin University** building **machine learning systems that ship** — from probabilistic demand forecasting to real-time risk prediction served on serverless infrastructure. I'm actively seeking **AI/ML engineering and data science roles (internship or entry-level)** where I can build models end-to-end: data pipeline → training → evaluation → deployment.
 
 - 🔭 Building ML systems with **Python, scikit-learn, XGBoost, LightGBM, and Prophet**
 - 🧠 Exploring **NLP & LLMs** — Hugging Face Transformers, LangChain, and the OpenAI/Claude APIs
